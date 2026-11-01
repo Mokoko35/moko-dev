@@ -9,4 +9,5 @@ Python ve JavaScript öğreniyorum. Küçük ama gerçek projeler yapıp açık 
 - [Görev Yöneticisi (To-Do List)](https://github.com/Mokoko35/todo-list) — Tarayıcıda çalışan, verileri hafızada tutan JavaScript uygulaması.
 
 ## Katkılarım
-- (İlk PR merge olunca buraya link eklenecek)
+
+- [first-contributions](https://github.com/firstcontributions/first-contributions/pull/127727) — Açık kaynağa ilk adım, ilk PR.
