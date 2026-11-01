@@ -6,7 +6,7 @@ Python ve JavaScript öğreniyorum. Küçük ama gerçek projeler yapıp açık 
 - İlk proje: JavaScript ile görev yöneticisi (yakında)
 
 ## Projelerim
-- (İlk repo hazır olunca buraya link eklenecek)
+- [Görev Yöneticisi (To-Do List)](https://github.com/Mokoko35/todo-list) — Tarayıcıda çalışan, verileri hafızada tutan JavaScript uygulaması.
 
 ## Katkılarım
 - (İlk PR merge olunca buraya link eklenecek)
